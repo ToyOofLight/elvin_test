@@ -840,5 +840,4 @@ def insert_phu_feed_in_db():  # insert df to table
 ########################################################################################################################
 
 
-izvor = pd.read_csv(f'{DROPBOX}\\izvoare\\tools_hu.csv')
-print(izvor)
+print('zzz')
