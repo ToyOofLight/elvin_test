@@ -840,5 +840,4 @@ def insert_phu_feed_in_db():  # insert df to table
 ########################################################################################################################
 
 
-print('primul comit din PyCharm')
-print('conflict pe main')
+print('rebase pe main')
