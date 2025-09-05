@@ -840,4 +840,4 @@ def insert_phu_feed_in_db():  # insert df to table
 ########################################################################################################################
 
 
-print('rebase de pe branch')
+print('modificare de pe worktree')
